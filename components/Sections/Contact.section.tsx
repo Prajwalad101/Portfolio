@@ -18,7 +18,7 @@ const Contact: NextComponentType = () => {
           icon={<AiOutlineGithub />}
           url="https://github.com/Prajwalad101"
         />
-        <Icon icon={<MdEmail />} url="mailto:kr.prajwalad101@gmail.com" />
+        <Icon icon={<MdEmail />} url="mailto:prajwalad101@gmail.com" />
       </div>
     </div>
   );

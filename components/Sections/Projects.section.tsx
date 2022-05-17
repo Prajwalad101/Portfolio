@@ -22,7 +22,8 @@ const Projects: NextComponentType = () => {
 
         <Link href="https://aims-web.vercel.app" passHref>
           <a
-            className="h-[9rem] w-[15rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#FDE68A] via-[#FCA5A5] to-[#FECACA] p-1 text-white duration-100 hover:scale-105"
+            className="h-[9rem] w-[15rem] cursor-pointer rounded-lg bg-gradient-to-r 
+            from-[#cea8b1] via-[#dedbe0] to-[#afc3c1] p-1 text-white duration-100 hover:scale-105"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -34,7 +35,7 @@ const Projects: NextComponentType = () => {
         </Link>
         <Link href="https://nayashop.netlify.app" passHref>
           <a
-            className="h-[9rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#FDE68A] via-[#FCA5A5] to-[#FECACA] p-1 text-white duration-100 hover:scale-105"
+            className="h-[9rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#FDE68A] via-[#87d9ff] to-[#ef75f1] p-1 text-white duration-100 hover:scale-105"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -44,9 +45,9 @@ const Projects: NextComponentType = () => {
             </div>
           </a>
         </Link>
-        <Link href="https://github.com/avneesh0612/Orbits-UI" passHref>
+        <Link href="https://prajwalblog.vercel.app/" passHref>
           <a
-            className="h-[9rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#FDE68A] via-[#FCA5A5] to-[#FECACA] p-1 text-white duration-100 hover:scale-105"
+            className="h-[9rem] w-[14rem] cursor-pointer rounded-lg bg-gradient-to-r from-[#4190c2] via-[#818CF8] to-[#D8B4FE] p-1 text-white duration-100 hover:scale-105"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -18,7 +18,7 @@ const About: NextComponentType = () => {
           Building Web apps, proficient in Frontend.
         </p>
 
-        <Link href="https://blog.anurag.tech" passHref>
+        <Link href="https://prajwalblog.vercel.app/" passHref>
           <a
             className="font-jost mt-4 flex cursor-pointer flex-row items-center gap-1 text-xl text-gray-400 duration-100 hover:ml-2"
             target="_blank"
